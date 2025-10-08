@@ -6,16 +6,6 @@
 
 ---
 
-# 👋 Hi, I'm Patrick McCleary
-
-🎓 Final year student in MEng General Engineering (Mechanical) with a Year in Industry pursuing a career in technology.
-
-💡 Upskilling through a number of projects such as football data analysis project and choosing a dissertation on regularisation in machine learning.
-
-🌱 Always learning — exploring technology and AI.
-
----
-
 ## ⚡ Skills
 
 - **Languages:** Python, Java, SQL (Postgres), R, MATLAB, VBA
