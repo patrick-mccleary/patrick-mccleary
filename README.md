@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Patrick McCleary  
 
-<!--
-**patrick-mccleary/patrick-mccleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year student in MEng General Engineering (Mechanical) with a Year in Industry pursuing a career in technology.  
+💡 Upskilling through a number of projects such as football data analysis project and choosing a dissertation on regularisation in machine learning. 
+🌱 Always learning — exploring technology and AI.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+- **Languages:** Python, Java, SQL (Postgres), R, MATLAB, VBA  
+- **Libraries/Frameworks:** Pandas, NumPy  
+- **Tools:** Git, Excel, LaTeX, PowerPoint
+
+---
+
+## 📌 Featured Projects
+⭐ **Football Data Analysis** — Combined an interest with an opportunity to develop data analysis skills using Pandas, Excel with VBA, SQL and R.  
+
+⭐ **Regularisation** — Chose a dissertation on regularisation in machine learning which involves software development in Python and mathematical theory.
+
+⭐ **Learn Python** — This repo contains all the resources, exercises and projects used to learn Python.
+
+---
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/patrickjmccleary)  
+- [Email](mailto:patrick.mccleary.work@gmail.com)  
+
+---
